@@ -7,7 +7,8 @@ image_paths =  [
     'synpic30324.jpg',
     'synpic21044.jpg',
     'synpic54802.jpg',
-    'synpic57813.jpg'
+    'synpic57813.jpg',
+    'synpic47964.jpg'
 ]
 image_paths = [os.path.join('../img', p) for p in image_paths]
 
